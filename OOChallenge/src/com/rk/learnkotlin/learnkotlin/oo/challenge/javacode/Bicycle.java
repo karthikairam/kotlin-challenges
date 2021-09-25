@@ -1,4 +1,4 @@
-package com.rk.learnkotlin.oo.challenge.javacode;
+package com.rk.learnkotlin.learnkotlin.oo.challenge.javacode;
 
 public class Bicycle {
 

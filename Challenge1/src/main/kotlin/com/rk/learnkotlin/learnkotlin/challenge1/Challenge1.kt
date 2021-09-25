@@ -1,4 +1,4 @@
-package com.rk.learnkotlin.challenge1
+package com.rk.learnkotlin.learnkotlin.challenge1
 
 fun main() {
     //Challenge1.1

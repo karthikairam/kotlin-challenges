@@ -1,4 +1,4 @@
-package com.rk.learnkotlin.oo.challenge.oochallenge
+package com.rk.learnkotlin.learnkotlin.oo.challenge.oochallenge
 
 import java.util.function.Consumer
 
